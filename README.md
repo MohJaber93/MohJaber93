@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohJaber93
 - 👀 I’m interested in Web development specially fron-end part.
 - 👀 I'am currently work as React js developer.
-- 🌱 I’m currently learning Vue.js.
+- 🌱 I’m currently learning Node js.
 - 💞️ I’m looking to collaborate on developing any new project and reach to excellent levels of skill.
 - 📫 How to reach me ... mohjbr.dev@gmail.com
 
